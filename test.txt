@@ -1,0 +1,1 @@
+To check if remote commits are reflected in studio
